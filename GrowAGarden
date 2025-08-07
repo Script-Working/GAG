@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-Working/loadscreen/refs/heads/main/Multi%20Hub"))()
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/TkZiBI88lmXaDmmc/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/AAdB3sxU/raw"))()
