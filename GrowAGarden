@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-Working/loadscreen/refs/heads/main/Multi%20Hub"))()
 loadstring(game:HttpGet("https://pastefy.app/AAdB3sxU/raw"))()
